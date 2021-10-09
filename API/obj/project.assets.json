@@ -1314,11 +1314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\API\\API.csproj",
+      "projectPath": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\api\\API.csproj",
       "packagesPath": "C:\\Users\\JUANF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\API\\obj\\",
+      "outputPath": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JUANF\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1382,7 +1382,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

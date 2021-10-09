@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "koEQs3K5yeRwnaRMvE7eytPUUK0NlCgdO2XVcI/Mnihz37oDCInjx3aqUwFX3Bvzq5BvBGBO4/ocEWPS5VTNCw==",
+  "dgSpecHash": "ju2xa4IBljGWXIY1uw+Hb5qwlWzNpm7P1B1RrWIBOtvWYdg6LPXtrSO83vqk/V9pINqWT9vIomhPOCVQXa8sGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JUANF\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\JUANF\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
