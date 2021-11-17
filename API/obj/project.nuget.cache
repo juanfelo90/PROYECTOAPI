@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ju2xa4IBljGWXIY1uw+Hb5qwlWzNpm7P1B1RrWIBOtvWYdg6LPXtrSO83vqk/V9pINqWT9vIomhPOCVQXa8sGQ==",
+  "dgSpecHash": "9p5xdn82O0GbDZxUuRmh031QQEvswMx6vOhxe3wEWqYF4khteXt9Qm9mfAl1RV24DHu3ix+Vkkh+5aKDtgVgYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\JUANF\\OneDrive\\Escritorio\\construccion4\\PROYECTOAPI\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JUANF\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\JUANF\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\JUANF\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\JUANF\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\JUANF\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\JUANF\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
